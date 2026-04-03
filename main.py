@@ -1,1 +1,1 @@
-print('Hello from responsitory!') 21312
+print('Hello from responsitory!')

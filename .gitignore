@@ -21,4 +21,5 @@ tmp_data.txt
 
 # Системные файлы
 Thumbs.db  # Windows
-.DS_Store  # macOS
+.DS_Store  # macOS.env
+.env
